@@ -1,0 +1,7 @@
+Nome: Gabriel Felipe Albano Grendel, Giuliano Amorim Lell.
+Turma: Gabriel, Engenharia de Software (noturno), Giuliano, ADS 3 ano 
+RA: 26007131-2; 253643902.
+
+Resumo:
+O repositório local fica armazenado dentro do computador do usuário de forma local, sendo de mais fácil acesso, maior rapidez e acesso offline, porém, por outro lado, com maior chance de perda do arquivo e dados. 
+O em nuvem fica armazenado em repositórios online, dando acesso de qualquer lugar pela internet, além de maior proteção, pois ele fica na nuvem, facilita backup e compartilhamento.
